@@ -13,7 +13,7 @@ public class Filip implements Drugari{
 
     @Override
     public void zavisnosti() {
-        System.out.println("cigare");
+        System.out.println("droga");
     }
 
     @Override
